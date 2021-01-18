@@ -1,0 +1,17 @@
+{
+  "name": "smart-ui_bot",
+  "version": "1.0.0",
+  "description": "smart ui bot first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "SV",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "0.51.0"
+  }
+}
